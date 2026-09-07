@@ -1,0 +1,11 @@
+Бренд VIORA STUDIO. Скилл постов лежит в viora-studio/.
+
+Правило ноль: длинных тире (U+2014, U+2013, U+2015, U+2012, U+2212) нет ни в постах,
+ни в статьях, ни в ответах в чате. Только обычный дефис -, точка или запятая.
+
+Слабая модель или маленькое окно: читай viora-studio/QUICKCARD.txt.
+Обычная работа: viora-studio/SKILL.md.
+Маршрут по задачам: viora-studio/ROUTER.md.
+
+Перед выдачей поста: python3 viora-studio/tools/lint_post.py draft.txt --strict
+Пост длиннее 1800 знаков: python3 viora-studio/tools/split_post.py draft.txt --check

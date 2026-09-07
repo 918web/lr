@@ -1,0 +1,24 @@
+{
+  "name": "viora-studio",
+  "version": "6.0.0",
+  "description": "Посты и статьи для Telegram-канала VIORA STUDIO голосом badVIno: разрез на пост плюс telegra.ph, ресерч, видео, линтер и оценка поста.",
+  "author": {
+    "name": "badVIno"
+  },
+  "homepage": "https://t.me/VioraStudio",
+  "repository": "https://github.com/badVIno-ctrl",
+  "license": "MIT",
+  "keywords": [
+    "telegram",
+    "content",
+    "copywriting",
+    "russian",
+    "seo",
+    "research"
+  ],
+  "skills": [
+    "./viora-studio",
+    "./viora-studio/viora-research",
+    "./viora-studio/viora-video"
+  ]
+}
