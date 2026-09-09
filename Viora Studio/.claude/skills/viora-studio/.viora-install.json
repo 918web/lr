@@ -1,0 +1,8 @@
+{
+  "skill": "viora-studio",
+  "version": "6.0.0",
+  "source": "поставка zip",
+  "mode": "stub",
+  "files": 1,
+  "target": "../../../viora-studio"
+}
